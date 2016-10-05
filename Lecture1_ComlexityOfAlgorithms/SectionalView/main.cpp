@@ -13,6 +13,12 @@ int main()
     int* B = new int[sizeB];
     enterNums(sizeA,A);
     enterNums(sizeB,B);
+
+    /*
+        Homework ex.2
+        The complexity on the algorithm is m*n/2
+    */
+
     for(int i = 0;i < sizeA;i++){
         if(binarySearch(A[i],B,sizeB)){
             cout << A[i] << " ";
