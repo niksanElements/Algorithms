@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1475691735 source:e:\c++_source\algorithms\lecture1_comlexityofalgorithms\symetriccomplementview\main.cpp
+	<iostream>
+	<vector>
+	<SortedTree.h>
+
+1475691929 e:\c++_source\algorithms\lecture1_comlexityofalgorithms\symetriccomplementview\include\sortedtree.h
+
+1475691910 source:e:\c++_source\algorithms\lecture1_comlexityofalgorithms\symetriccomplementview\src\sortedtree.cpp
+	"SortedTree.h"
+	<iostream>
+
