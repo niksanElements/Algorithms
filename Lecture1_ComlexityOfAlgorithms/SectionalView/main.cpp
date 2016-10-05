@@ -30,6 +30,7 @@ int main()
 
 bool binarySearch(int num,int* arr,int end){
     int start = 0;
+    end--;
     while(start <= end){
         int mid = start + (end - start)/2;
         if(arr[mid] > num){
