@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475691251 source:e:\c++_source\algorithms\lecture1_comlexityofalgorithms\complementview\main.cpp
+	<iostream>
+	<vector>
+
