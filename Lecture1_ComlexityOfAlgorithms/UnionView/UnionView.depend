@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1475689262 source:e:\c++_source\algorithms\lecture1_comlexityofalgorithms\unionview\main.cpp
+	<iostream>
+	<SortedTree.h>
+
+1475687764 e:\c++_source\algorithms\lecture1_comlexityofalgorithms\unionview\include\stortedtree.h
+
+1475688449 source:e:\c++_source\algorithms\lecture1_comlexityofalgorithms\unionview\src\stortedtree.cpp
+	"StortedTree.h"
+	<iostream>
+
+1475689206 e:\c++_source\algorithms\lecture1_comlexityofalgorithms\unionview\include\sortedtree.h
+
+1475689183 source:e:\c++_source\algorithms\lecture1_comlexityofalgorithms\unionview\src\sortedtree.cpp
+	"SortedTree.h"
+	<iostream>
+
