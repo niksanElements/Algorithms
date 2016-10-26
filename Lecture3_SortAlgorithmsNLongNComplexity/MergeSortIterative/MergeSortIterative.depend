@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476903052 source:/home/nikolay/Development/Algorithms/Lecture3_SortAlgorithmsNLongNComplexity/MergeSortIterative/main.cpp
+	<iostream>
+	<math.h>
+
