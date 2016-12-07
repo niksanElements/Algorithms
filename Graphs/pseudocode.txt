@@ -1,0 +1,28 @@
+
+		bfs
+insert into q the started element
+mark started element as used
+while q is not empty
+	get q front element
+	for all child on front element
+		if current element wasn't used
+			insert it in q
+			mark int as used
+			
+		Dfs_r
+mark start element as visited
+for all his child
+	if currnet element is not visited
+		dfs_r(currnet element)
+		dfs_i
+push into the stak start element
+mark him as visted
+while stack is not empty
+	look at first elemetn into stack
+	if this element has childs 
+		get his child and reduce counter
+		if this element is not visited
+			mark him as visited 
+			push him into stack
+	else (if first element has no child)
+		remove first element

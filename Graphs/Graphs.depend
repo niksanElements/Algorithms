@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481112802 source:e:\c++_source\algorithms\graphs\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+
