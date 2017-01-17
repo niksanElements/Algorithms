@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484504803 source:e:\c++_source\algorithms\graphs\01.distancebetweenvertices\main.cpp
+	<iostream>
+	<queue>
+

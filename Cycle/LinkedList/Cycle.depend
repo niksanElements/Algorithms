@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481446248 source:e:\c++_source\algorithms\cycle\linkedlist\main.cpp
+	<iostream>
+	<set>
+
